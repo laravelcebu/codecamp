@@ -8,10 +8,10 @@
                 <div class="card-header">Joshua Ferrer</div>
 
                 <div class="card-body" align="center" style="background-color:#EEF1F3;">
-                    <marquee scrollamount="2300">
+                    <!-- <marquee scrollamount="2300"> -->
                         <img src="{{asset('img/ferrer.jpg')}}" style="width: 200px;margin-bottom: 15px;"/>
-                    </marquee>
-                    <marquee scrollamount="2850">
+                    <!-- </marquee> -->
+                    <!-- <marquee scrollamount="2850"> -->
                         <div class="form-group">
                             <h3>Address: Salinas drive ext. Cebu City</h3>
                         </div>
@@ -27,7 +27,7 @@
                         <div class="form-group">
                             <h3>Contact: 09225499460</h3>
                         </div>
-                    </marquee>
+                    <!-- </marquee> -->
                 </div>
             </div>
         </div>
