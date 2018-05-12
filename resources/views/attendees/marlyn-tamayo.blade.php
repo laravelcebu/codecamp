@@ -17,7 +17,7 @@
                         <thead>
                             <tr>
                                 <th scope="col">            
-                                <img  src="{{ asset('marlyn/marlyn.jpg') }}" height="100" width="70">     
+                                <img  src="{{ asset('attendees/marlyn.jpg') }}" height="100" width="70">     
 </th>
                                 <td>Marlyn Tamayo</td>
                                 <td>USJ-R BSIT major in Web Development</td> 
