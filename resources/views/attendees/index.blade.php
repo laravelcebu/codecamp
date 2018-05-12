@@ -6,8 +6,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
-                    Users
-                    <a href="{{ route('users.create') }}" class="btn btn-success float-right">Create User</a>
+                    Attendees
                 </div>
 
                 <div class="card-body">
