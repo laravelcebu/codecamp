@@ -23,5 +23,6 @@ Route::get('/activation/{token}', 'ActivationController@index')->name('activate'
 
 Route::resource('users', '\App\Http\Controllers\UserController');
 
+
 Route::get('attendees/{name}', '\App\Http\Controllers\AttendeeController@show')->name('attendees.show');
 Route::get('attendees', '\App\Http\Controllers\AttendeeController@index');
